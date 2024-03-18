@@ -1,1 +1,0 @@
-# dynamic-planner-app
